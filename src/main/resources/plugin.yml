@@ -1,0 +1,9 @@
+name: SpaceSentinal
+main: de.spaceai.spacesentinal.SpaceSentinal
+version: 1.0.0
+author: spaceaiDE
+api-version: 1.17
+
+commands:
+  money:
+  info:
