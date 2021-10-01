@@ -39,7 +39,7 @@ class MyEconomyClass implements IEconomy {
 <details>
 <summary>Step 2 of 3</summary>
 
-The Implement all Methods from IEconomy and give them her functionality
+Then Implement all Methods from IEconomy and give them her functionality
 
 ```java
 import de.spaceai.spacesentinal.api.economy.IEconomy;
