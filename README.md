@@ -17,8 +17,7 @@ You can integrate your own economy system. And your own Services. Over the api y
 
 <center> 
 
-#Register your own economy system
-<br>
+# Register your own Economy
 
 </center>
 
