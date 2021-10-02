@@ -23,7 +23,7 @@ public class PlayerJoinListener implements Listener {
 
         EconomyService economyService = SpaceSentinalAPI.getApi().getService("economyService");
 
-        if(economyService.getEconomy() != null && !economyService.getEconomy().existUser(player.getUniqueId())) {
+        if(economyService != null && economyService.getEconomy() != null && !economyService.getEconomy().existUser(player.getUniqueId())) {
             economyService.getEconomy().loadUser(player.getUniqueId());
         }
 
